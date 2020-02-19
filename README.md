@@ -16,7 +16,7 @@
 #2: 03 prizes
 #7: 02 prizes
 #8: 01 prize
-``
+```
 
 Note: giả sử có 3 prizes #1, #2, #3 số lượng là 3, 8, 10
 Thì tỉ lệ lần ra quà #1 là 3/21
