@@ -8,7 +8,7 @@
   > Có ```prizeCount``` prize, tên là #1, #2, #3,...
   > Yêu cầu user nhập số lượng cho các prize #1, #2, #3,...
   > Yêu cầu user nhập số lần roll (```rollCount```)
-  > Ngẫu nhiên pick n trong số các prizes, hiển thị kết quả theo dạng:
+  > Ngẫu nhiên pick ```rollCount``` trong số các prizes, hiển thị kết quả theo dạng:
 
 
 ```
